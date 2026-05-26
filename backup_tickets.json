@@ -1,0 +1,23 @@
+[
+    {
+        "id": "205158ce",
+        "title": "Сломалась оплата картой на сайте",
+        "priority": "critical",
+        "status": "in_progress",
+        "created_at": "2026-05-26 06:10:35"
+    },
+    {
+        "id": "1e561d1e",
+        "title": "Добавить кнопку 'Выход' в меню",
+        "priority": "low",
+        "status": "open",
+        "created_at": "2026-05-26 06:10:35"
+    },
+    {
+        "id": "57c1827d",
+        "title": "Долго грузится личный кабинет",
+        "priority": "high",
+        "status": "open",
+        "created_at": "2026-05-26 06:10:35"
+    }
+]
